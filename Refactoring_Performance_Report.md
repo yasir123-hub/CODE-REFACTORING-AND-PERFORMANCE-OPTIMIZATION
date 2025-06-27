@@ -38,7 +38,7 @@
 
 ## 8. How to Run the Project
 ```bash
-git clone https://github.com/yourusername/ExampleProject.git
+git clone https://github.com/mohammedyasir/ExampleProject.git
 cd ExampleProject
 python main.py
 ```
